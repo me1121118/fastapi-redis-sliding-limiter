@@ -17,7 +17,7 @@ Hey there! 👋 I build and open-source lightweight, focused developer tools.
 
 If this small package helped protect your production API, please consider supporting my college/tuition fund:
 - ☕ **Buy Me a Coffee:** [buymeacoffee.com/yourname](https://www.buymeacoffee.com)
-- 💖 **Ko-fi:** [ko-fi.com/yourname](https://ko-fi.com)
+- 💖 **Ko-fi:** [buymeacoffee.com/kcidi4148](https://buymeacoffee.com/kcidi4148)
 - ⭐ **Star this repository** to help other developers discover it!
 
 ---
