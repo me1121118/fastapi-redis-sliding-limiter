@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fastapi-redis-sliding-limiter"
+version = "0.1.0"
+description = "Distributed sliding window rate limiter decorator for FastAPI with Redis and in-memory fallback."
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "me1121118" }]
+keywords = ["fastapi", "rate-limit", "redis", "sliding-window", "security"]
+dependencies = [
+    "fastapi>=0.100.0",
+]
